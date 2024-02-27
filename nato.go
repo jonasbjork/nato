@@ -28,6 +28,10 @@ var natoAlphabet = map[string]string{
 	"s": "Sierra", "t": "Tango", "u": "Uniform",
 	"v": "Victor", "w": "Whiskey", "x": "X-ray",
 	"y": "Yankee", "z": "Zulu",
+	"0": "Zero", "1": "One", "2": "Two",
+	"3": "Three", "4": "Four", "5": "Five",
+	"6": "Six", "7": "Seven", "8": "Eight",
+	"9": "Nine",
 }
 
 func translate(text string) string {
